@@ -1,6 +1,6 @@
 # WebDAV Connect
 
-Admittedly, most people will have little or no use for this AppleScript, as Mac OS X already has the necessary means to connect to a WebDAV server ("Connect to server" `⌘K`). I wrote this script, as I was looking for a more discreet way to connect to a WebDAV server on a computer that's occasionally shared with co-workers. Server address and user name are hard-coded in the script and the only dialog you will see is the one asking for your password.
+Admittedly, most people will have little or no use for this AppleScript, as Mac OS X already has the necessary means to connect to a WebDAV server ("Connect to server" or `⌘K`). I wrote this script, as I was looking for a more discreet way to connect to a WebDAV server on a computer that's occasionally shared with co-workers. Server address and user name are hard-coded in the script and the only dialog you will see is the one asking for your password.
 
 Note: While you can save this script as a native app, it can at all times opened using the AppleScript Editor, hence the server address and user name are not “protected” from prying eyes. However, there's no way of saving the password—by accident or not—in your keychain.
 
