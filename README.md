@@ -4,7 +4,7 @@ Admittedly, most people will have little or no use for this AppleScript, as Mac 
 
 ## Usage
 
-1. Download `WebDAV-Connect.scpt`
+1. Download `WebDAV-Connect.applescript`
 2. Edit server settings in an editor of your choice
 3. Use the AppleScript Editor to save the script as `.app`
 4. Execute your app
